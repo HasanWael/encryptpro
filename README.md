@@ -32,7 +32,7 @@ EncryptPro provides an easy-to-use interface for exploring common encryption tec
 
 ## Screenshot
 ```
-![EncryptPro Screenshot](docs/screenshot.png)
+![EncryptPro Screenshot]](https://ibb.co/4gC9V2XX)
 ```
 
 ## Requirements
